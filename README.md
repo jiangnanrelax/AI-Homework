@@ -1,4 +1,4 @@
 artificial-intelligence
 =======================
 
-viterbi algorithm 中文词性标注
+人工智能课程实验
